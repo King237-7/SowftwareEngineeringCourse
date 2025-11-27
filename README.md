@@ -1,1 +1,1 @@
-# Portfolio for learning git
+# SOftware engineering course: Portfolio for learning git
