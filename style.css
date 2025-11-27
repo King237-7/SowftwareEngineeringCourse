@@ -20,10 +20,11 @@ nav {
     padding-right: 8%;
 }
 .logo{
-    color: white;
+    color: rgb(36, 36, 36);
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer;
+    margin-bottom: 30px;
 }
 span{
     color: #f9004d;
@@ -52,6 +53,7 @@ nav ul li a:hover{
     padding: 10px 25px;
     border-radius: 30px;
     transition: transform .4s;
+    margin-bottom: 30px;
 }
 .btn:hover{
     transform: scale(1.2);
